@@ -2,7 +2,7 @@
 # library(ggplot2)
 # library(RSQLite)
 # 
-# # Connect to the "iris" database
+# # Connect to the "iris1" database
 # con <- dbConnect(SQLite(), "iris.db")
 # 
 # # Define the UI for the app
