@@ -7,7 +7,7 @@ con <- dbConnect(SQLite(), "iris.db")
 
 # Define the UI for the app
 ui <- fluidPage(
-  titlePanel("Iris Data"),
+  titlePanel("Irisssssssss Data"),
   sidebarLayout(
     sidebarPanel(
       selectInput("x_var", "X-axis variable:", choices = names(iris)[-5]),
